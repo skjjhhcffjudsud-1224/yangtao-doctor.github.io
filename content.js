@@ -8,7 +8,7 @@ const portfolio = {
   status: "持续充电中",
   location: "冰岛",
   email: "kaiyang@example.com",
-  github: "https://github.com/kaiyang-teacher",
+  github: "https://github.com/",
   csdn: "https://www.csdn.net/",
   gitee: "https://gitee.com/yanyangs-whisper/wyxzjl",
   resumeUrl: "",
@@ -35,6 +35,6 @@ const portfolio = {
     { category: "crawler", number: "16", title: "贝壳二手房数据采集", description: "爬虫采集贝壳二手房数据，保存Excel文件", tags: ["requests", "xpath","反爬策略"], link: "Portfolio/贝壳二手房/index.html", accent: "mint", bgImage: "Portfolio/bgimgs/贝壳二手房.png"},
     { category: "analysis", number: "17", title: "csv自动化大屏", description: "csv数据可视化大屏，支持数据筛选、图表切换。", tags: ["pandas", "pyecharts","Excel"], link: "Portfolio/csv自动化大屏/CSV自动大屏.html", accent: "coral", bgImage: "Portfolio/bgimgs/数据大屏.png"},
     { category: "creative", number: "18", title: "炫酷项目展示", description: "AIGC技术项目展示，展示AIGC技术项目，包括但不限于AI绘画、AI写作、AI编程等。", tags: ["AIGC", "提示词","python"], link: "Portfolio/炫酷项目展示.html", accent: "coral", bgImage: "Portfolio/bgimgs/AIGC.png"},
-     { category: "creative", number: "19", title: "诗词", description: "与买桂花同载酒,终不似少年游", tags: ["beautiful", "lonely","遗憾"], link: "Portfolio/龙洲道人.html", accent: "coral", bgImage: "Portfolio/bgimgs/刘过.jpg"}
-  ]
+     { category: "creative", number: "19", title: "诗词", description: "与买桂花同载酒,终不似少年游", tags: ["beautiful", "lonely","遗憾"], link: "Portfolio/龙洲道人.html", accent: "coral", bgImage: "Portfolio/bgimgs/刘过.jpg"},
+     { category: "creative", number: "20", title: "诗词", description: "感谢老师", tags: ["beautiful", "lonely","遗憾","感恩"], link: "Portfolio/老师.html", accent: "coral", bgImage: "Portfolio/bgimgs/老登.png"}]
 };
